@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/db-recipe-book#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.4",
     "knex": "^0.15.2",
     "sqlite3": "^4.0.2"
